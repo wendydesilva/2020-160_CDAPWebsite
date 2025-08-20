@@ -18,7 +18,7 @@ The website was built following standard web development practices:
 - **HTML5** for semantic structure.  
 - **CSS3** for styling and responsive layouts.  
 - **JavaScript** for interactivity.  
-- **PHP** (optional) for dynamic content and potential form handling.  
+- **PHP** for dynamic content and potential form handling.  
 
 
 ---
